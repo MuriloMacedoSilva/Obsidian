@@ -17,3 +17,10 @@ A ideia central do Expo é permitir o desenvolvimento de aplicativos nativos sem
 
 Pilares do Expo : 
 
+**Expo SDK:** Conjunto pronto de bibliotecas nativas e APIs otimizadas para acessar a câmera, sensores, notificações e sistema de arquivos.
+
+**Expo Router:** Sistema de navegação baseado em arquivos (semelhante ao Next.js na web).
+
+**Expo Go:** Aplicativo para dispositivos móveis que lÇe seu código em tempo real via QR Code durante o desenvolvimento, sem precisar compilar.
+
+**EAS (Expo Application Services):** Serviões em nuvem para criar as builds finais (arquivos .apk e .ipa) e enviar a aplicação diretamente para a Google Play e App Store.
